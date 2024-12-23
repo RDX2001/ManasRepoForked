@@ -2,4 +2,4 @@ this is file of child  branch
 
 git branch new-branch-name = create a sub new branch
 git checkout new-branch-name = switch to new branch also have a command git switch new-branch-name
-git merge new-branch-name = merge new branch with master branch
+git merge new-branch-name = merge new branch with master branch( when you want merging thne checkout to master branch)
